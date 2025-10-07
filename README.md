@@ -24,3 +24,4 @@
 ## Assinaturas de Imagens no OCIR
 ## Políticas de Verificação de Imagens
 ## Identificação de Imagens no OCIR
+## Uso de Digest em Manifests
