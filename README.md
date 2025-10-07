@@ -39,6 +39,7 @@
 
 ## Data at Rest Encryption
 ## Data in Transit Encryption
+## Camadas de Segurança no File Storage Service
 
 
 
