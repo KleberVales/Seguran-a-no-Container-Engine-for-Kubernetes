@@ -17,3 +17,4 @@
 
 ## Security First – Gerenciamento de Vulnerabilidades
 ## Unaltered Integrity – Garantia de Integridade
+## Trusted Sources – Fontes Confiáveis
