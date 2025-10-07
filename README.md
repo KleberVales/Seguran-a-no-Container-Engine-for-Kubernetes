@@ -18,3 +18,7 @@
 ## Security First – Gerenciamento de Vulnerabilidades
 ## Unaltered Integrity – Garantia de Integridade
 ## Trusted Sources – Fontes Confiáveis
+
+---
+
+## Assinaturas de Imagens no OCIR
