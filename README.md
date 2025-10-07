@@ -26,3 +26,7 @@
 ## Identificação de Imagens no OCIR
 ## Uso de Digest em Manifests
 ## Permissões Necessárias
+
+---
+
+## Criptografia em Repouso (Data at Rest)
