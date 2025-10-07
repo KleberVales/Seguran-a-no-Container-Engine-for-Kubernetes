@@ -31,3 +31,4 @@
 
 ## Criptografia em Repouso (Data at Rest)
 ## Criptografia em Trânsito (Data in Transit)
+## Configuração em Kubernetes (PVCs e StorageClasses)
