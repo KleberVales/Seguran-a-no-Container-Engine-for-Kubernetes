@@ -30,3 +30,4 @@
 ---
 
 ## Criptografia em Repouso (Data at Rest)
+## Criptografia em Trânsito (Data in Transit)
