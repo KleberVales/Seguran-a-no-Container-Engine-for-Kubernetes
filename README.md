@@ -22,3 +22,4 @@
 ---
 
 ## Assinaturas de Imagens no OCIR
+## Políticas de Verificação de Imagens
