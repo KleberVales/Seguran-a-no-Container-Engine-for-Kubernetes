@@ -12,3 +12,7 @@
 
 ## External Secrets Store com Secrets Store CSI Driver
 ## Kubernetes Secrets em etcd
+
+--- 
+
+## Security First – Gerenciamento de Vulnerabilidades
